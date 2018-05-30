@@ -114,4 +114,8 @@ ENV/
 
 
 # sqlite3
-src/db.sqlite3
+## src/db.sqlite3
+
+# ctags
+tags
+src/tags
